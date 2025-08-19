@@ -1,5 +1,3 @@
-DROP PROCEDURE IF EXISTS proc_inserir_e_listar;
-
 DELIMITER //
 
 CREATE PROCEDURE proc_inserir_e_listar(
